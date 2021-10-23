@@ -1,3 +1,20 @@
 body{
     background: #BDBDBD;
 }
+.tagline {
+    height: 500px;
+    background-image: url("https://cdn.pixabay.com/photo/2020/01/15/20/22/vitznau-4768834_1280.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 500px ;
+    margin-top: none;
+}
+.tag-bgcolor {
+    background-color: #DCDCDC;
+    background-size: 100%;
+    width: 100%;
+    font-size: 50px;
+     
+}
+.H1-size {
+    font-size: 80px;
+}
